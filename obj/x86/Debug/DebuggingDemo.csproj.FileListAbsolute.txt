@@ -1,0 +1,15 @@
+C:\Users\lipenade\OneDrive - Microsoft\Documents\2018_01_15_BHGE_VS2017_Debugging\BHGE New Materials\4. Performance Analysis\Demos\CPUPerf\bin\Debug\Customers.xml
+C:\Users\lipenade\OneDrive - Microsoft\Documents\2018_01_15_BHGE_VS2017_Debugging\BHGE New Materials\4. Performance Analysis\Demos\CPUPerf\bin\Debug\DebuggingDemo.exe.config
+C:\Users\lipenade\OneDrive - Microsoft\Documents\2018_01_15_BHGE_VS2017_Debugging\BHGE New Materials\4. Performance Analysis\Demos\CPUPerf\bin\Debug\DebuggingDemo.exe
+C:\Users\lipenade\OneDrive - Microsoft\Documents\2018_01_15_BHGE_VS2017_Debugging\BHGE New Materials\4. Performance Analysis\Demos\CPUPerf\bin\Debug\DebuggingDemo.pdb
+C:\Users\lipenade\OneDrive - Microsoft\Documents\2018_01_15_BHGE_VS2017_Debugging\BHGE New Materials\4. Performance Analysis\Demos\CPUPerf\obj\x86\Debug\DebuggingDemo.csproj.CoreCompileInputs.cache
+C:\Users\lipenade\OneDrive - Microsoft\Documents\2018_01_15_BHGE_VS2017_Debugging\BHGE New Materials\4. Performance Analysis\Demos\CPUPerf\obj\x86\Debug\DebuggingDemo.exe
+C:\Users\lipenade\OneDrive - Microsoft\Documents\2018_01_15_BHGE_VS2017_Debugging\BHGE New Materials\4. Performance Analysis\Demos\CPUPerf\obj\x86\Debug\DebuggingDemo.pdb
+C:\NextGen\4. Performance Analysis\Demos\CPUPerf\bin\Debug\Customers.xml
+C:\NextGen\4. Performance Analysis\Demos\CPUPerf\bin\Debug\DebuggingDemo.exe.config
+C:\NextGen\4. Performance Analysis\Demos\CPUPerf\bin\Debug\DebuggingDemo.exe
+C:\NextGen\4. Performance Analysis\Demos\CPUPerf\bin\Debug\DebuggingDemo.pdb
+C:\NextGen\4. Performance Analysis\Demos\CPUPerf\obj\x86\Debug\DebuggingDemo.csprojResolveAssemblyReference.cache
+C:\NextGen\4. Performance Analysis\Demos\CPUPerf\obj\x86\Debug\DebuggingDemo.csproj.CoreCompileInputs.cache
+C:\NextGen\4. Performance Analysis\Demos\CPUPerf\obj\x86\Debug\DebuggingDemo.exe
+C:\NextGen\4. Performance Analysis\Demos\CPUPerf\obj\x86\Debug\DebuggingDemo.pdb
